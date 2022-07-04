@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-2k22",
+  "version": "1.0.0",
+  "description": "follow me as i go through idcamp 2k22 course. Get ready for exciting adventures, epic tales, and lovable npcs. join now",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
